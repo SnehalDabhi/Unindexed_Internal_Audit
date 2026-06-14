@@ -24,11 +24,11 @@ This document provides a consolidated overview of recent initiatives, supported 
 ## Screenshots
 All supporting screenshots are consolidated here to illustrate the above points:
 
-<img width="851" height="460" alt="Screenshot 2026-06-14 at 3 46 10 PM" src="https://github.com/user-attachments/assets/66428be6-c3d6-4d88-b3cb-0f45052ca1cd" />
-<img width="863" height="515" alt="Screenshot 2026-06-14 at 3 45 55 PM" src="https://github.com/user-attachments/assets/086040a0-4b76-4e27-a7cb-3f4a9d57d1db" />
-<img width="826" height="556" alt="Screenshot 2026-06-14 at 3 45 41 PM" src="https://github.com/user-attachments/assets/6fce9755-d0d4-4d79-b0bc-e3c62cbba424" />
-<img width="852" height="514" alt="Screenshot 2026-06-14 at 3 45 31 PM" src="https://github.com/user-attachments/assets/be7f2fbd-c648-411a-8a17-587e9825497c" />
 <img width="824" height="417" alt="Screenshot 2026-06-14 at 3 45 11 PM" src="https://github.com/user-attachments/assets/dcf71d33-fe3e-4f25-ad89-5aceba905fa6" />
+<img width="852" height="514" alt="Screenshot 2026-06-14 at 3 45 31 PM" src="https://github.com/user-attachments/assets/be7f2fbd-c648-411a-8a17-587e9825497c" />
+<img width="826" height="556" alt="Screenshot 2026-06-14 at 3 45 41 PM" src="https://github.com/user-attachments/assets/6fce9755-d0d4-4d79-b0bc-e3c62cbba424" />
+<img width="863" height="515" alt="Screenshot 2026-06-14 at 3 45 55 PM" src="https://github.com/user-attachments/assets/086040a0-4b76-4e27-a7cb-3f4a9d57d1db" />
+<img width="851" height="460" alt="Screenshot 2026-06-14 at 3 46 10 PM" src="https://github.com/user-attachments/assets/66428be6-c3d6-4d88-b3cb-0f45052ca1cd" />
 <img width="1507" height="572" alt="Screenshot 2026-06-14 at 4 00 12 PM" src="https://github.com/user-attachments/assets/1ac40346-9404-4491-8813-afe5d29ba948" />
 
 
