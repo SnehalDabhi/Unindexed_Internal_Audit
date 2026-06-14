@@ -29,7 +29,8 @@ All supporting screenshots are consolidated here to illustrate the above points:
 <img width="826" height="556" alt="Screenshot 2026-06-14 at 3 45 41 PM" src="https://github.com/user-attachments/assets/6fce9755-d0d4-4d79-b0bc-e3c62cbba424" />
 <img width="852" height="514" alt="Screenshot 2026-06-14 at 3 45 31 PM" src="https://github.com/user-attachments/assets/be7f2fbd-c648-411a-8a17-587e9825497c" />
 <img width="824" height="417" alt="Screenshot 2026-06-14 at 3 45 11 PM" src="https://github.com/user-attachments/assets/dcf71d33-fe3e-4f25-ad89-5aceba905fa6" />
-<img width="843" height="466" alt="Screenshot 2026-06-14 at 3 46 26 PM" src="https://github.com/user-attachments/assets/9552dade-c915-4e82-8f91-2b220b74118f" />
+<img width="1507" height="572" alt="Screenshot 2026-06-14 at 4 00 12 PM" src="https://github.com/user-attachments/assets/1ac40346-9404-4491-8813-afe5d29ba948" />
+
 
 ---
 
